@@ -24,7 +24,14 @@ staging->means we are telling git to monitoring/stage these files
 ### creating a local version /commiting changes
 `git commit -m "message/changes"`
 ```
+best practice for commiting messages
 added/<what added>
 updated/<what updated>
 removed/<what removed>
 ```
+
+### pushing changes to remote repository 
+`git push <remote> <branch>`
+
+example
+`git push origin master`
