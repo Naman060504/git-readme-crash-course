@@ -1,9 +1,9 @@
-#github crash course
-###initializing a repository
+# github crash course
+### initializing a repository
 `git init .`
 this command that convert folder to a git repository
 
-###adding remote address of the repository
+### adding remote address of the repository
 ```git remote add origin https://github.com/Naman060504/ git-readme-crash-course.git```
 git -> app 
 remote -> command
